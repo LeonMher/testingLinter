@@ -21,7 +21,9 @@
 							"  console.log('User ID:', userId);\r",
 							"\r",
 							"  pm.globals.set(\"user_id\", userId);\r",
-							"});"
+							"});\r",
+							"\r",
+							""
 						],
 						"type": "text/javascript"
 					}
@@ -31,12 +33,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://4dae-46-130-124-110.ngrok.io/",
+					"raw": "https://b2b9-46-130-124-110.ngrok.io/",
 					"protocol": "https",
 					"host": [
-						"0084-46-130-124-110.ngrok.io"
+						"b2b9-46-130-124-110",
+						"ngrok",
+						"io"
 					],
-					
 					"path": [
 						""
 					]
@@ -73,7 +76,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"users\":\"Insert New Item 19:00\"\r\n}",
+					"raw": "{\r\n    \"users\":\"NGROK INSERT\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -81,12 +84,13 @@
 					}
 				},
 				"url": {
-					"raw": "https://4dae-46-130-124-110.ngrok.io/create",
+					"raw": "https://b2b9-46-130-124-110.ngrok.io/create",
 					"protocol": "https",
 					"host": [
-						"0084-46-130-124-110.ngrok.io"
+						"b2b9-46-130-124-110",
+						"ngrok",
+						"io"
 					],
-					
 					"path": [
 						"create"
 					]
@@ -114,7 +118,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"updatedValue\":\"Updated 19:00\"\r\n}",
+					"raw": "{\r\n    \"updatedValue\":\"Updated 20:41\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -122,12 +126,13 @@
 					}
 				},
 				"url": {
-					"raw": "https://4dae-46-130-124-110.ngrok.io/update/{{user_id}}",
+					"raw": "https://b2b9-46-130-124-110.ngrok.io/update/{{user_id}}",
 					"protocol": "https",
 					"host": [
-						"0084-46-130-124-110.ngrok.io"
+						"b2b9-46-130-124-110",
+						"ngrok",
+						"io"
 					],
-					
 					"path": [
 						"update",
 						"{{user_id}}"
@@ -142,12 +147,13 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "https://4dae-46-130-124-110.ngrok.io/delete/150",
+					"raw": "https://b2b9-46-130-124-110.ngrok.io/delete/149",
 					"protocol": "https",
 					"host": [
-						"0084-46-130-124-110.ngrok.io"
+						"b2b9-46-130-124-110",
+						"ngrok",
+						"io"
 					],
-					
 					"path": [
 						"delete",
 						"149"
