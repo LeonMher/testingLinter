@@ -32,11 +32,11 @@
 				"header": [],
 				"url": {
 					"raw": "https://0084-46-130-124-110.ngrok.io/",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"0084-46-130-124-110.ngrok.io"
 					],
-					"port": "3004",
+					
 					"path": [
 						""
 					]
@@ -82,11 +82,11 @@
 				},
 				"url": {
 					"raw": "https://0084-46-130-124-110.ngrok.io/create",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"0084-46-130-124-110.ngrok.io"
 					],
-					"port": "3004",
+					
 					"path": [
 						"create"
 					]
@@ -123,11 +123,11 @@
 				},
 				"url": {
 					"raw": "https://0084-46-130-124-110.ngrok.io/update/{{user_id}}",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"0084-46-130-124-110.ngrok.io"
 					],
-					"port": "3004",
+					
 					"path": [
 						"update",
 						"{{user_id}}"
@@ -143,11 +143,11 @@
 				"header": [],
 				"url": {
 					"raw": "https://0084-46-130-124-110.ngrok.io/delete/150",
-					"protocol": "http",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"0084-46-130-124-110.ngrok.io"
 					],
-					"port": "3004",
+					
 					"path": [
 						"delete",
 						"149"
