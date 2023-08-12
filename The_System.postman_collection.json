@@ -31,7 +31,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://0084-46-130-124-110.ngrok.io/",
+					"raw": "https://4dae-46-130-124-110.ngrok.io/",
 					"protocol": "https",
 					"host": [
 						"0084-46-130-124-110.ngrok.io"
@@ -81,7 +81,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://0084-46-130-124-110.ngrok.io/create",
+					"raw": "https://4dae-46-130-124-110.ngrok.io/create",
 					"protocol": "https",
 					"host": [
 						"0084-46-130-124-110.ngrok.io"
@@ -122,7 +122,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://0084-46-130-124-110.ngrok.io/update/{{user_id}}",
+					"raw": "https://4dae-46-130-124-110.ngrok.io/update/{{user_id}}",
 					"protocol": "https",
 					"host": [
 						"0084-46-130-124-110.ngrok.io"
@@ -142,7 +142,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "https://0084-46-130-124-110.ngrok.io/delete/150",
+					"raw": "https://4dae-46-130-124-110.ngrok.io/delete/150",
 					"protocol": "https",
 					"host": [
 						"0084-46-130-124-110.ngrok.io"
