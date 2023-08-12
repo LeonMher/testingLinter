@@ -31,7 +31,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3004/",
+					"raw": "https://0084-46-130-124-110.ngrok.io/",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -81,7 +81,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3004/create",
+					"raw": "https://0084-46-130-124-110.ngrok.io/create",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -122,7 +122,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3004/update/{{user_id}}",
+					"raw": "https://0084-46-130-124-110.ngrok.io/update/{{user_id}}",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -142,7 +142,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3004/delete/150",
+					"raw": "https://0084-46-130-124-110.ngrok.io/delete/150",
 					"protocol": "http",
 					"host": [
 						"localhost"
